@@ -1,0 +1,2 @@
+# DynamicRelationAnaysis
+CS6220 Data Mining Project
